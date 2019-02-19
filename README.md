@@ -3,10 +3,13 @@
 # DATA DOWNLOAD
 To start this project, you need an addition data file.
 
-First you should download data from:
-https://pan.baidu.com/s/1KFui9zZKjRqzFkCJH5nenw
-    
-Then unzip it,create a data dir, and put it in data directory
+First you should download data from: https://pan.baidu.com/s/1KFui9zZKjRqzFkCJH5nenw Then unzip it,create a data dir, and put it in data directory
+
+## Data for text_classify_basic.ipynb,  seq2seq_basic.ipynb, word2vec_basic.ipynb
+    https://www.kaggle.com/seesea0203/segmented-train-seg-by-word
+
+## Data for umich_sentiment_analysis_final.ipynb
+    https://www.lintcode.com/ai/UMICH_Sentiment_Analysis/data
 
 ## After you do all that , the following file should be found:
  
